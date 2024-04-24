@@ -6,8 +6,5 @@
     "defaultBranch": "main",
     "description": "AppAssetsSyncupScenarios",
     "gitUrl": "https://github.com/DavidH-xactly/anythingelse",
-    "icon": "LogoIconOnlyAnalyticsComponent",
-    "sections": [
-    
-    ]
+    "icon": "LogoIconOnlyAnalyticsComponent"
   }
